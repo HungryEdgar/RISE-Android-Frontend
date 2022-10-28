@@ -1,6 +1,6 @@
-package com.example.al4t_claco.view
+package com.example.al4t_claco.Data
 
-import com.example.al4t_claco.model.Activity
+import com.example.al4t_claco.Classes.Activity
 
 
 data class DataActivity(private val activity: Activity, val course: String){

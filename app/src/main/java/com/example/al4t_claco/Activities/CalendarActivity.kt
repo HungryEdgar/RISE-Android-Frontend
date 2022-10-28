@@ -1,4 +1,4 @@
-package com.example.al4t_claco.controller
+package com.example.al4t_claco.Activities
 
 import android.app.AlertDialog
 import android.content.DialogInterface
@@ -11,10 +11,10 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.drawerlayout.widget.DrawerLayout
 import androidx.gridlayout.widget.GridLayout
 import com.example.al4t_claco.R
-import com.example.al4t_claco.model.Calendar
-import com.example.al4t_claco.model.Classroom
-import com.example.al4t_claco.model.Event
-import com.example.al4t_claco.model.sessionManager
+import com.example.al4t_claco.Classes.Calendar
+import com.example.al4t_claco.Classes.Classroom
+import com.example.al4t_claco.Classes.Event
+import com.example.al4t_claco.Classes.sessionManager
 import com.google.android.material.navigation.NavigationView
 import java.time.LocalDate
 import java.time.LocalDateTime

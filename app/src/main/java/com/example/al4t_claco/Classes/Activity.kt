@@ -1,4 +1,4 @@
-package com.example.al4t_claco.model
+package com.example.al4t_claco.Classes
 
 import java.io.Serializable
 
